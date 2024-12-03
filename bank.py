@@ -1,5 +1,4 @@
 # 
-# Darbības ar masīviem - https://www.w3schools.com/python/python_arrays.asp
 # Datu tipi, mekle float - https://www.w3schools.com/python/python_datatypes.asp
 # Pārbaudēm izmanto if...else - https://www.w3schools.com/python/python_conditions.asp
 # Cipari https://www.w3schools.com/python/python_numbers.asp
